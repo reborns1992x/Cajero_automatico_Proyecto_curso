@@ -1,0 +1,29 @@
+[
+    {
+        "cedula": "1",
+        "nombre": "Paola",
+        "apellido": "Alfonzo",
+        "tipo_de_cuenta": "ahorro",
+        "saldo": "50",
+        "transacciones": "4",
+        "contrasena": "666"
+    },
+    {
+        "cedula": "2",
+        "nombre": "Roberto",
+        "apellido": "Ramirez",
+        "tipo_de_cuenta": "Ahorro",
+        "saldo": "40",
+        "transacciones": "20",
+        "contrasena": "1234"
+    },
+    {
+        "cedula": "3",
+        "nombre": "Miguel",
+        "apellido": "Zuliaga",
+        "tipo_de_cuenta": "Ahorro",
+        "saldo": "0",
+        "transacciones": "10",
+        "contrasena": "1234"
+    }
+]
