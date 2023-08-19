@@ -4,7 +4,7 @@
         "nombre": "Paola",
         "apellido": "Alfonzo",
         "tipo_de_cuenta": "ahorro",
-        "saldo": "50",
+        "saldo": "49",
         "transacciones": "4",
         "contrasena": "666"
     },
@@ -19,10 +19,10 @@
     },
     {
         "cedula": "3",
-        "nombre": "Miguel",
-        "apellido": "Zuliaga",
+        "nombre": "Jose",
+        "apellido": "Alvarez",
         "tipo_de_cuenta": "Ahorro",
-        "saldo": "0",
+        "saldo": "51",
         "transacciones": "10",
         "contrasena": "1234"
     }
